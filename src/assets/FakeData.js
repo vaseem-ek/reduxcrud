@@ -1,0 +1,20 @@
+export const productData=[
+    {
+        id:1,
+        name:"nasim",
+        produ:"bus",
+        price:23
+    },
+    {
+        id:2,
+        name:"asim",
+        produ:"bag",
+        price:25
+    },
+    {
+        id:3,
+        name:"lisim",
+        produ:"shoes",
+        price:20
+    }
+]
